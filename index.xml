@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>johndoe</title>
-    <link>http://www.example.com/</link>
+    <link>https://lll2173.github.io/</link>
     <description>Recent content on johndoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jun 2022 01:08:28 +0800</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 01:08:28 +0800</lastBuildDate><atom:link href="https://lll2173.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://www.example.com/posts/my-first-post/</link>
+      <link>https://lll2173.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 29 Jun 2022 01:08:28 +0800</pubDate>
       
-      <guid>http://www.example.com/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://lll2173.github.io/posts/my-first-post/</guid>
+      <description>在这期间，我更换了各种模板以及经历了各种网络连接不佳的问题。然后再阅读全英文的网站的的过程中，接住了各种翻译软件以及插件的帮助，从而顺利的了解了网站上的内各种内容。</description>
     </item>
     
   </channel>
